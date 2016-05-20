@@ -16,7 +16,7 @@
 #define __SED_THREAD__
 #define __SED_ERR__
 #define __SED_NUM__
-#include "../sedhead.h"
+#include "../../sedhead.h"
 
 /******************************* NOTES ***************************************
  *  pthread_create(pthread_t *thread, const pthread_attr_t *attr,

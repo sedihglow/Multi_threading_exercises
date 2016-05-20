@@ -26,7 +26,7 @@
 #define __SED_ERR__
 #define __SED_NUM__
 #define __SED_THREAD__
-#include "../../sedhead.h"
+#include "../../../sedhead.h"
 
 #define ID1     1
 #define ID2     2
